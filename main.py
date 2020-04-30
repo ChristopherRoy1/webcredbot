@@ -4,4 +4,4 @@ import configparser
 config = configparser.ConfigParser()
 config.read('praw.ini')
 
-print(str(config.sections()))
+creds = config['webcredbot']
