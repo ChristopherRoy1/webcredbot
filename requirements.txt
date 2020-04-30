@@ -9,3 +9,4 @@ six==1.14.0
 update-checker==0.17
 urllib3==1.25.9
 websocket-client==0.57.0
+whois==0.9.7
